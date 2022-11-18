@@ -14,6 +14,6 @@
 ## 2. Modelo relacional
 
 
-- #### [Boletín Iniciación]()
+- #### [Boletín Iniciación](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%201.pdf)
 
 - #### [Boletín 1]()
