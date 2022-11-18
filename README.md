@@ -11,9 +11,9 @@
 - - ##### [Corregidos](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%201/Corregidos)
 
 
-## 2. Modelo relacional
+## [2. Modelo relacional]()
 
 
-- #### [Boletín Iniciación](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%201.pdf)
+- #### [Boletín Iniciación](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%20iniciacion.pdf)
 
-- #### [Boletín 1]()
+- #### [Boletín 1](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%201.pdf)
