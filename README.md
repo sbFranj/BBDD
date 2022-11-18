@@ -8,7 +8,7 @@
 
 - #### [Boletín 1](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%201)
 
-- - ##### [Corregidos]()
+- - ##### [Corregidos](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%201/Corregidos)
 
 
 ## 2. Modelo relacional
