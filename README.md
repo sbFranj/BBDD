@@ -4,7 +4,7 @@
 
 ## 1. Entidad / Relación
 
-- #### [Boletín Iniciación]()
+- #### [Boletín Iniciación](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%20Iniciacion)
 
 - #### [Boletín 1](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%201)
 
