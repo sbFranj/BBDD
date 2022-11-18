@@ -6,7 +6,7 @@
 
 - #### [Boletín Iniciación]()
 
-- #### [Boletín 1]()
+- #### [Boletín 1](https://github.com/sbFranj/BBDD/tree/main/Boletines/Boletin%201)
 
 - - ##### [Corregidos]()
 
