@@ -18,16 +18,16 @@
 
 - [Boletín **1**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%201.pdf)
 
-## [3. Normalización]()
+## [3. Normalización](https://github.com/sbFranj/BBDD/tree/main/Boletines/Normalizacion)
 
 
-- [Boletín **1**]()
+- [Boletín **1**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Normalizacion/Bolet%C3%ADn%20de%20Ejercicios%201.pdf)
 
-- [Boletín **2**]()
+- [Boletín **2**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Normalizacion/Boletin%20de%20Ejercicios%202.pdf)
 
-## [4. Modelo fisico]()
+## [4. Modelo fisico](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo%20fisico)
 
 
-- [Boletín **1**]()
+- [Boletín **1**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo%20fisico/Ejercicio1)
 
-- [Boletín **2**]()
+- [Boletín **2**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo%20fisico/Ejercicio2_editoriales)
