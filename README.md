@@ -17,3 +17,17 @@
 - [Boletín **Iniciación**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%20iniciacion.pdf)
 
 - [Boletín **1**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo%20relacional/Boletin%201.pdf)
+
+## [3. Normalización]()
+
+
+- [Boletín **1**]()
+
+- [Boletín **2**]()
+
+## [4. Modelo fisico]()
+
+
+- [Boletín **1**]()
+
+- [Boletín **2**]()
