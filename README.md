@@ -31,3 +31,11 @@
 - [Boletín **1**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo%20fisico/Ejercicio1)
 
 - [Boletín **2**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo%20fisico/Ejercicio2_editoriales)
+
+- [Ejercicio **2**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo_fisico/ejercicio2)
+
+- [Ejercicio **3**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo_fisico/ejercicio%203%20CALADERO.sql)
+
+- [Ejercicio **4**](https://github.com/sbFranj/BBDD/tree/main/Boletines/Modelo_fisico/ejercicio4)
+
+- [Ejercicio **5**](https://github.com/sbFranj/BBDD/blob/main/Boletines/Modelo_fisico/ejercicio%205%20JARDINERIA_ORACLE.sql)
